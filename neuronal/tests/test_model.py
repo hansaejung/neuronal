@@ -7,7 +7,6 @@ import warnings
 example_file_path = get_example_data_file_path('single_PSP_data.txt')
 data = NeuronalData(example_file_path)
 
-
 class TestModel(TestCase):
     def test_model(self):
         model = psp_model(data, -30.397341, [-30.397341], -30.397341, [0.290294],
