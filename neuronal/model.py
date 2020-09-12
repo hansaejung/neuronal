@@ -1,7 +1,6 @@
 """
 Uses a generative model to fit parameters to neuronal data.
 
-Authors: Han Sae Jung, Amelia Paine
 """
 
 from .io import NeuronalData
