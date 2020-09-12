@@ -1,7 +1,6 @@
 """
 This module governs the import of experimental data.
 
-Authors: Amelia Paine, Han Sae Jung
 """
 
 import os
