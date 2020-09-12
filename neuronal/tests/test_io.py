@@ -4,7 +4,6 @@ import pandas as pd
 import numpy as np
 from neuronal.io import get_example_data_file_path, NeuronalData
 
-
 class TestIo(TestCase):
 
     def test_data_io(self):
