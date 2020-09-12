@@ -4,6 +4,7 @@ from neuronal.model import *
 from neuronal.analysis import *
 import matplotlib
 
+
 example_file_path = get_example_data_file_path('single_PSP_data.txt')
 data = NeuronalData(example_file_path)
 initial_guess = {
