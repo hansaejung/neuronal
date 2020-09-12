@@ -1,7 +1,6 @@
 """
 Useful functions for analysing and plotting pymc3 traces.
 
-Authors: Amelia Paine, Han Sae Jung
 """
 
 import numpy as np
